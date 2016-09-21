@@ -1,4 +1,7 @@
-# Sample Task manager app using Angular2
-The goal of this projet is starting workin with angular2 and be able to create sampleprotytpes.
+# Sample Task manager using Angular2
+A sample client side application for task manager. No backend used in this sample in order to let you decide what is the right architecture of your applications.
 ## Prerequisites
-## Install npm packages
+## Development environment
+## Npm Scripts
+## Project structure
+
