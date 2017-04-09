@@ -1,6 +1,6 @@
 # Introduction
 [![npm version](https://badge.fury.io/js/%40angular%2Fmaterial.svg)](https://www.npmjs.com/package/%40angular%2Fmaterial)
-[![ng2-chart version](https://badge.fury.io/js/%40angular%2Fmaterial.svg)](https://www.npmjs.com/package/ng2-charts)
+[![ng2-chart version](https://badge.fury.io/js/ng2-charts.svg)](https://www.npmjs.com/package/ng2-charts)
 
 Sample Task manager application based upon [ng2-charts](https://github.com/valor-software/ng2-charts)/ [ng2-bootstrap-layout](https://github.com/FrontendMatter/ng2-bootstrap-layout)/ [@angular/material](https://github.com/angular/material2)
 
