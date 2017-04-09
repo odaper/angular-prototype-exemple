@@ -5,7 +5,7 @@
 
 
 
-Sample Task manager application based upon [ng2-charts](https://github.com/valor-software/ng2-charts)/ [ng2-bootstrap-layout](https://github.com/FrontendMatter/ng2-bootstrap-layout)/ [@angular/material](https://github.com/angular/material2)
+Sample Task manager application based upon [ng2-charts](https://github.com/valor-software/ng2-charts)/ [ng2-bootstrap-layout][![ng2-bootstrap-layout version](https://badge.fury.io/js/ng2-bootstrap-layout.svg)](https://www.npmjs.com/package/ng2-bootstrap-layout)/ [@angular/material](https://github.com/angular/material2)
 
 ## Prerequisites
 You need git to clone the `angular2-sample-taskmanager` repository.
