@@ -1,5 +1,6 @@
-# Sample Task manager using Angular2
-A sample client side application for task manager. No backend used in this sample in order to let you decide what is the right architecture of your applications.
+# Introduction
+Sample Task manager application based upon [ng2-charts](https://github.com/valor-software/ng2-charts)/ [ng2-bootstrap-layout](https://github.com/FrontendMatter/ng2-bootstrap-layout) [@angular/material] (https://github.com/angular/material2)
+
 ## Prerequisites
 ## Development environment
 ## Npm Scripts
