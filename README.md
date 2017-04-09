@@ -33,3 +33,9 @@ https://angular.io/docs/ts/latest/guide/testing.html#!#tools-and-tech
 ## Npm Scripts
 ## Project structure
 
+### License
+
+MIT License
+
+
+
