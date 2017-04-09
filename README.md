@@ -1,10 +1,31 @@
 # Introduction
+[![npm version](https://badge.fury.io/js/%40angular%2Fmaterial.svg)](https://www.npmjs.com/package/%40angular%2Fmaterial)
+
 Sample Task manager application based upon [ng2-charts](https://github.com/valor-software/ng2-charts)/ [ng2-bootstrap-layout](https://github.com/FrontendMatter/ng2-bootstrap-layout)/ [@angular/material](https://github.com/angular/material2)
 
 ## Prerequisites
 You need git to clone the `angular2-sample-taskmanager` repository.
 We also use a number of Node.js tools to initialize and test `angular2-sample-taskmanager`. You must have Node.js
 and its package manager (npm) installed.
+
+# Directory Structure
+
+├── app
+│   ├── components
+│   │   ├── about
+│   │   │   └── ...ts
+│   ├── app.html
+│   ├── app.ts
+│   ├── index.html
+│   └── init.ts
+├── dist
+│   ├── dev
+│   └── prod
+├── tools
+│   ├── tasks
+│   ├── utils.js
+│   └── workflow.config.js
+├── tsd_typings
 
 ## Testing
 No unit test are done. 
