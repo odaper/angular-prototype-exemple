@@ -8,7 +8,7 @@ and its package manager (npm) installed.
 
 ## Testing
 No unit test are done. 
-You can refer to the official page of angular for more informations about the tools and technologies you can use for testing angular application :
+You can refer to the official page of angular for more informations about the tools and technologies used for Angular tests :
 https://angular.io/docs/ts/latest/guide/testing.html#!#tools-and-tech
 
 ## Npm Scripts
