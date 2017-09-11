@@ -1,4 +1,7 @@
 # Introduction
+Un simple prototype d'une application de gestion de tâches. Il affiche une page de login statique qui redirige vers une page d'accueil responsive affichant un tableau de bord et menu principal 
+Add topics
+
 Sample Task manager application based upon [ng2-charts](https://www.npmjs.com/package/ng2-charts)/ [ng2-bootstrap-layout](https://www.npmjs.com/package/ng2-bootstrap-layout)/ [@angular/material](https://www.npmjs.com/package/%40angular%2Fmaterial)
 
 ## Prerequisites
