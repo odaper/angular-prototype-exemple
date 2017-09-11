@@ -1,0 +1,24 @@
+.card {
+   width: 300px;
+   background: rgba(255,255,255,0.9);
+   height: auto;
+   min-height: 300px;
+   border-radius: 0px;
+   margin: 0 auto;
+   margin-top: 10%;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.center {
+    text-align: left;
+}
+.mat-card-actions {
+    text-align: center;
+}
+p {
+    font-size: 12px;
+}
+

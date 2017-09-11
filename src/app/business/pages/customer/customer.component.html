@@ -1,0 +1,41 @@
+<div>
+<md-card>
+<md-card-title>Customer Filters</md-card-title>
+<form class="form" >
+  <md-input-container>
+    <input mdInput placeholder="first name">
+  </md-input-container>
+
+  <md-input-container>
+    <input mdInput placeholder="last name">
+  </md-input-container>
+
+  <md-input-container class="example-full-width">
+    <span mdPrefix>+216 &nbsp;</span>
+    <input type="phone" mdInput placeholder="phone">
+    <md-icon mdSuffix>phone</md-icon>
+  </md-input-container>
+  <div>
+    <md-input-container>
+      <input mdInput [mdDatepicker]="picker" placeholder="birthdate">
+      <button mdSuffix [mdDatepickerToggle]="picker"></button>
+    </md-input-container>
+    <md-datepicker #picker></md-datepicker>
+    <span></span>
+    <md-radio-group class="radio">
+    <md-radio-button    value="single">Single</md-radio-button>
+    <md-radio-button    value="married">Married</md-radio-button>
+      <md-radio-button  value="divorced">Divorced</md-radio-button>
+    </md-radio-group>
+    <md-checkbox>is Vip</md-checkbox>
+  </div>
+  <md-card-actions>
+      <button id="searchButton" md-raised-button 
+      color="primary" class="md-primary"
+      (click)="onClick()">Search</button>
+  </md-card-actions>
+</form>
+</md-card>
+<div class="table">
+</div>
+</div>

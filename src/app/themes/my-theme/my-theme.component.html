@@ -1,0 +1,19 @@
+<md-sidenav-container class="container">
+  <md-sidenav #sidenav class="app-sidenav">
+    <md-nav-list>
+      <a md-list-item routerLink='/home/customer'>Customer</a>
+      <a md-list-item routerLink='/home/customer2'>Customer Grid WithFilters</a>
+    </md-nav-list>
+  </md-sidenav>
+  <app-header [sidenav]="sidenav" class="header">
+    Header
+  </app-header>
+  <app-theme-body class="body">
+  </app-theme-body>
+  <app-footer class="footer">
+    Footer
+  </app-footer>
+</md-sidenav-container>
+
+
+

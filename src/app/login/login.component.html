@@ -1,0 +1,31 @@
+<div class="main">
+<md-card class="card">
+    <md-card-title>
+         Angular Prototype 
+         <p>
+             Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+             sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+         </p>
+    </md-card-title>
+    <md-card-content>
+        <div>{{errorMsg}}</div>
+        <div>
+        <md-input-container class="full-width">
+          <input mdInput value="" placeholder="Email" maxlength="100">
+        </md-input-container>
+        </div>
+        <div>
+        <md-input-container class="full-width">
+          <input mdInput value="" placeholder="Password" maxlength="100">
+        </md-input-container>
+        </div>
+    </md-card-content>
+    <md-card-actions class="center">
+    <button [routerLink]="'home'" 
+            md-raised-button color="primary" class="md-primary"
+            type="submit" name="action">Login</button>
+         <button md-button
+            type="reset" name="action">Cancel</button>
+    </md-card-actions>
+</md-card>
+</div>

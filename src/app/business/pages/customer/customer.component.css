@@ -1,0 +1,24 @@
+.radio {
+  margin: 30px;
+}
+.table {
+  margin-top: 30px;
+}
+.form {
+  width: 100%;
+}
+.form md-input-container {
+  width: 33%;
+}
+.mat-card-actions {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 30px;
+}
+#searchButton {
+  float: right;
+  background: #b91754;
+}
+md-radio-button {
+  margin-right: 20px;
+}

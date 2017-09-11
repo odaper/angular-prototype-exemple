@@ -1,0 +1,6 @@
+.app-body  {
+    z-index: 1;
+    margin: -120px 50px;
+    color: #fff;
+    display: block;
+}

@@ -1,0 +1,36 @@
+/**
+ Theme 
+**/
+.logo {
+    width: 200px;
+    background: #444;
+}
+.container {
+    height: 100%;
+}
+.header {
+    width: 100%;
+    display: block;
+    height: 50px;
+    background: #444;
+    color: #fff;
+    border-bottom: 1px solid #c74575;
+    box-shadow: 0;
+}
+.body {
+    position: relative;
+    display: block;
+}
+md-nav-list a {
+        display: block;
+    color: #444;
+    line-height: 40px;
+    padding: 5px 20px;
+    text-decoration: none;
+    font-size: 18px;
+        outline: none;
+}
+md-nav-list a:hover {
+    background: #eee;
+    transition: background 200ms;
+}

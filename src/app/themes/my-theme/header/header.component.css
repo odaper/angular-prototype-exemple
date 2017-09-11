@@ -1,0 +1,30 @@
+.mat-button {
+    margin: 5px;
+}
+.sidebar-icons {
+    float: right;
+
+}
+.logo {
+    float: left;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.logo img {
+    height: 20px;
+}
+.menu {
+    float: left;
+    margin: 0px;
+    height: 50px;
+    border-radius: 0px;
+}
+.sidebar-icons button {
+    margin: 0px;
+    height: 50px;
+    border-radius: 0px;
+}
+h1 {
+    font-size: 18px;
+    margin: 0px;
+}
