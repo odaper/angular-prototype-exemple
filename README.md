@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # AngularGestionTacheExemple
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.5.
@@ -28,6 +29,8 @@ Before running the tests make sure you are serving the app via `ng serve`.
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 =======
+=======
+>>>>>>> 30b11cc0c6ea2ef3308ab9d7f1059de94adc193c
 # Introduction
 Un simple prototype d'une application de gestion de tâches. Il affiche une page de login statique qui redirige vers une page d'accueil responsive affichant un tableau de bord et menu principal 
 Add topics
@@ -72,4 +75,7 @@ MIT License
 
 
 
+<<<<<<< HEAD
+>>>>>>> 30b11cc0c6ea2ef3308ab9d7f1059de94adc193c
+=======
 >>>>>>> 30b11cc0c6ea2ef3308ab9d7f1059de94adc193c
